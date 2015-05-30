@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Main Activity header text-->
+    <string name="nanodegree_apps">My Nanodegree apps</string>
+
+    <!-- buttons on Main Activity-->
+    <string name="spotify_streamer_app">Spotify Streamer</string>
+    <string name="scores_app">Scores app</string>
+    <string name="library_app">Library app</string>
+    <string name="build_it_bigger_app">Build It Bigger</string>
+    <string name="xyz_reader_app">XYZ Reader</string>
+    <string name="capstone_project_app">Capstone Project</string>
+</resources>
